@@ -1,0 +1,10 @@
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\bin\Debug\netcoreapp3.1\Idez.Domain.deps.json
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\bin\Debug\netcoreapp3.1\Idez.Domain.dll
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\bin\Debug\netcoreapp3.1\Idez.Domain.pdb
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\obj\Debug\netcoreapp3.1\Idez.Domain.csproj.AssemblyReference.cache
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\obj\Debug\netcoreapp3.1\Idez.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\obj\Debug\netcoreapp3.1\Idez.Domain.AssemblyInfoInputs.cache
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\obj\Debug\netcoreapp3.1\Idez.Domain.AssemblyInfo.cs
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\obj\Debug\netcoreapp3.1\Idez.Domain.csproj.CoreCompileInputs.cache
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\obj\Debug\netcoreapp3.1\Idez.Domain.dll
+D:\Treinamento\C#\Api\Idez.Api.Workshop\Idez.Domain\obj\Debug\netcoreapp3.1\Idez.Domain.pdb
